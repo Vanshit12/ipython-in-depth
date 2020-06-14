@@ -97,3 +97,6 @@ or
 NODE_OPTIONS=--max_old_space_size=4096 jupyter labextension install ...
 ```
 This increases the available memory for the build process to 4Gb.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vanshit12/ipython-in-depth/master)
